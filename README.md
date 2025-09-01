@@ -20,7 +20,7 @@ It allows users to enter course names, add them to a list, and display them dyna
 ## ⚙️ Installation
 1. Clone this repository  
    ```bash
-[[git clone https://github.com/k-vasantharaj/Course-Tracker-in-LWC-using-Template-Looping](https://github.com/k-vasantharaj/Course-Tracker-in-LWC-using-Template-Looping)](https://github.com/k-vasantharaj/Course-Tracker-in-LWC-using-Template-Looping)
+(https://github.com/k-vasantharaj/Course-Tracker-in-LWC-using-Template-Looping/tree/main)
 Deploy to your Salesforce Org using SFDX or VS Code.
 
 Open Lightning App Builder → Add the component to:
