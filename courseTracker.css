@@ -1,0 +1,22 @@
+.cStyle {
+    font-size: 12px;
+    font-weight: bold;
+    color: #0070d2; /* Salesforce blue */
+}
+
+.cStyle2 {
+    font-size: 12px;
+    font-weight: bold;
+    color: grey;
+}
+
+.inputStyle {
+    width: 300px; /* wider input box */
+    font-size: medium;
+    font-weight: bold;
+}
+
+.courseBox {
+    border-radius: 8px;
+    background-color: #f4f6f9;
+}
