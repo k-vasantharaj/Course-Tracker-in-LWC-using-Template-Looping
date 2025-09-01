@@ -50,4 +50,3 @@ If no courses are added → A fallback message appears in gray text ❌
 <img width="322" height="296" alt="2" src="https://github.com/user-attachments/assets/53f56183-820c-47ed-b33b-852a39ae4444" />
 <img width="320" height="293" alt="3" src="https://github.com/user-attachments/assets/12221dca-7916-49d3-8452-4e91e59dc7bc" />
 <img width="320" height="322" alt="5" src="https://github.com/user-attachments/assets/668e9235-a650-4a99-80da-6e46e105d922" />
-<img width="320" height="236" alt="6" src="https://github.com/user-attachments/assets/baca7543-a45f-455d-a022-dea4e239cda9" />
